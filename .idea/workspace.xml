@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="581096c0-1d9d-4acd-8ca2-ba16b4588543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/todo/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="581096c0-1d9d-4acd-8ca2-ba16b4588543" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +53,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588694578908</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding sqlite3">
+      <created>1588696425315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588696425315</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding sqlite3">
+      <created>1588696573063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588696573063</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -67,13 +76,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Adding everything" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding everything" />
+    <MESSAGE value="adding sqlite3" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding sqlite3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588694575913">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588696572333">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588694575913" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588696572333" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588674318285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
