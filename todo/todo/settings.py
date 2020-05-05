@@ -25,7 +25,7 @@ SECRET_KEY = '4i@e(wpp)9_oor+b13go92##12k9u@pkc6%sgp8!n^8)n*d$=='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['siyambloggingapp.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['todo1888.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
