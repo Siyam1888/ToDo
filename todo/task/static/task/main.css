@@ -1,0 +1,67 @@
+
+    body{
+    background-color: aqua;
+    text-align:center;
+    }
+
+    button,input{
+    width:100%;
+    padding: 12px 20px;
+    margin:8px 0px;
+    box-sizing: border-box;
+    }
+
+    input::placeholder{
+    color:#212F3D ;
+    }
+
+    .submit{
+    background-color:#3498DB;
+    }
+
+    .center-column{
+    width:600px;
+    margin:20px auto;
+    padding:20px;
+    background-color:#fff;
+    border-radius:3px;
+    box-shadow:6 px 2px 30px 0px rgba(0,0,0,0.75);
+    text-align:center;
+    }
+
+    .item-row{
+    background-color: #EC7063;
+    margin: 4px;
+    padding: 10px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: 0px -1px 10px -4px rgba(0,0,0,0.75);
+    font-color: black;
+    }
+
+    .btn-danger{
+    background-color: #ffae19;
+    border-color: e59500;
+    }
+
+    .container{
+    width:400px;
+    margin:50px auto;
+    padding:40px;
+    background-color:#00FF00;
+    border-radius:3px;
+    box-shadow:6 px 2px 30px 0px rgba(0,0,0,0.75);
+    text-align:center;
+    }
+
+    #container1{
+    width:400px;
+    margin:50px auto;
+    padding:40px;
+    background-color:#AED6F1;
+    border-radius:3px;
+    box-shadow:6 px 2px 30px 0px rgba(0,0,0,0.75);
+    text-align:center;
+    }

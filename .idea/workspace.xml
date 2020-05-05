@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="581096c0-1d9d-4acd-8ca2-ba16b4588543" name="Default Changelist" comment="" />
+    <list default="true" id="581096c0-1d9d-4acd-8ca2-ba16b4588543" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/static/task/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/templates/task/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/templates/task/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/templates/task/task_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/templates/task/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/task/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ToDo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ToDo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/list/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/task/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/list/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/task/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/list/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/task/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/list/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/task/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/list/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/list/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/task/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/list/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/todo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/todo/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,8 +47,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/python_projects/Blog" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,6 +62,32 @@
       <option name="presentableId" value="Default" />
       <updated>1588585991756</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1588588362749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588588362749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588588361951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588588361951" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588674318285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588674318285" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1588588522629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588588522629" />
   </component>
 </project>
