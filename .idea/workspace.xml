@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588696573063</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added whitenoise">
+      <created>1588696989687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588696989687</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -77,13 +84,14 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Adding everything" />
     <MESSAGE value="adding sqlite3" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding sqlite3" />
+    <MESSAGE value="added whitenoise" />
+    <option name="LAST_COMMIT_MESSAGE" value="added whitenoise" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588696572333">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588696988741">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588696572333" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588696988741" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588674318285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
